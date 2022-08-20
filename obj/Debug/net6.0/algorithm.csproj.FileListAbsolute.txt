@@ -1,0 +1,15 @@
+C:\Users\OSMAN\algorithm\bin\Debug\net6.0\algorithm.exe
+C:\Users\OSMAN\algorithm\bin\Debug\net6.0\algorithm.deps.json
+C:\Users\OSMAN\algorithm\bin\Debug\net6.0\algorithm.runtimeconfig.json
+C:\Users\OSMAN\algorithm\bin\Debug\net6.0\algorithm.dll
+C:\Users\OSMAN\algorithm\bin\Debug\net6.0\algorithm.pdb
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.csproj.AssemblyReference.cache
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.AssemblyInfoInputs.cache
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.AssemblyInfo.cs
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.dll
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\refint\algorithm.dll
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.pdb
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\algorithm.genruntimeconfig.cache
+C:\Users\OSMAN\algorithm\obj\Debug\net6.0\ref\algorithm.dll
